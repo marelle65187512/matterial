@@ -117,25 +117,3 @@
         "dark",
         "darkest"
       ],
-      "species": [
-        "generic"
-      ]
-    },
-    {
-      "width": 32,
-      "height": 32,
-      "path": "icon/icon_N.png",
-      "scale": [
-        1,
-        2
-      ],
-      "theme": [
-        "lightest",
-        "light"
-      ],
-      "species": [
-        "generic"
-      ]
-    }
-  ]
-}
