@@ -10,11 +10,9 @@
 # Compiled Static libraries
 *.a
 *.lib
-
 # Executables
 *.exe
 
-# DUB
 .dub
 docs.json
 __dummy.html
