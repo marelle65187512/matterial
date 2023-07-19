@@ -20,8 +20,6 @@ from lavis.common.optims import (
     LinearWarmupCosineLRScheduler,
     LinearWarmupStepLRScheduler,
 )
-from lavis.common.utils import now
-
 # imports modules for registration
 from lavis.datasets.builders import *
 from lavis.models import *
